@@ -79,8 +79,8 @@ I believe technology should solve real-world problems and make life better for e
 
 ## 📊 GitHub Stats
 
-![Nikilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikileshReddyT&show_icons=true&theme=radical)
+![Nikilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikileshReddyT&show_icons=true&theme=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikileshReddyT&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikileshReddyT&layout=compact&theme=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NikileshReddyT&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NikileshReddyT&theme=blue)
