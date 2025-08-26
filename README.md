@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Nikilesh Reddy T
 
 ## 💫 About Me
-
 I'm a passionate **Full Stack Developer** and **Tech Enthusiast** who loves building innovative solutions that make a real impact. Currently focused on pet-tech and web development, I'm always excited to collaborate on meaningful projects and learn cutting-edge technologies.
 
 ### 🚀 What I'm Working On
 - **petzu.in** - Comprehensive pet platform and services 🐾
-- **PetWebsite** - Modern pet-focused web application 🐕
-- **Vendor-Petzu** - Advanced vendor management system 📊
+- **Exit Portal** - Graduation checking for KL University 🎓
+- **Senior Care Platform** - Healthcare solutions for seniors 👴👵
 - **Personal Portfolio** - Showcasing my journey and projects 💼
 
 ### 💻 Looking to Collaborate On
@@ -52,7 +51,6 @@ I believe technology should solve real-world problems and make life better for e
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
@@ -76,7 +74,6 @@ I believe technology should solve real-world problems and make life better for e
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikileshReddyT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikileshReddyT&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikileshReddyT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -84,7 +81,6 @@ I believe technology should solve real-world problems and make life better for e
 ---
 
 ## 🌐 Connect With Me
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/NikileshReddyT)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nikilesh_reddy_t)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikilesh-reddy-thatiparthi/)
@@ -94,21 +90,9 @@ I believe technology should solve real-world problems and make life better for e
 ---
 
 ## 💭 Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikileshReddyT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=NikileshReddyT&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
